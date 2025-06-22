@@ -11,7 +11,8 @@
   box-sizing: border-box;
   padding: 20px;
   max-width: 1200px;
-  margin: auto auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .header-menu {
