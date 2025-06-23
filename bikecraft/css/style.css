@@ -10,9 +10,14 @@
 @import "./global/global.css";
 @import "./global/header.css";
 
-/* Conteudo */
+/* Home */
 @import "./theme/home/introducao.css";
-@import "./theme/home/bicicletas-lista.css";
 @import "./theme/home/tecnologia.css";
 @import "./theme/home/parceiros.css";
 @import "./theme/home/depoimento.css";
+
+/* Bicicletas */
+@import "./theme/bicicletas/bicicletas-lista.css";
+
+/* Seguros */
+@import "./theme/seguros/seguros.css";
