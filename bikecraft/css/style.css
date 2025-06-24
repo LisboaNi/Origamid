@@ -28,3 +28,7 @@
 
 /*Termos*/
 @import "./theme/termos/termos.css";
+
+/* Bicicleta */
+@import "./theme/bicicleta/nimbus.css";
+@import "./theme/bicicleta/seguro.css";
