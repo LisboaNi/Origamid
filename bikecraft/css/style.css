@@ -37,3 +37,6 @@
 /* Bicicleta */
 @import "./theme/bicicleta/nimbus.css";
 @import "./theme/bicicleta/seguro.css";
+
+/* Orçamento */
+@import "./theme/orcamento/orcamento.css";
