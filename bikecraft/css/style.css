@@ -3,6 +3,7 @@
 
 /* Utilitarios */
 @import "./utils/componente.css";
+@import "./utils/formulario.css";
 @import "./utils/tipografia.css";
 @import "./utils/cores.css";
 
@@ -25,6 +26,10 @@
 @import "./theme/seguros/seguros.css";
 @import "./theme/seguros/vantagens.css";
 @import "./theme/seguros/perguntas.css";
+
+/*Contato*/
+@import "./theme/contato/contato.css";
+@import "./theme/contato/lojas.css";
 
 /*Termos*/
 @import "./theme/termos/termos.css";
