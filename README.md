@@ -27,6 +27,6 @@ Este repositório contém:
 
 ---
 
-**Veja ao vivo:** [🔗 Clique aqui para acessar o projeto](https://lisboani.github.io/Origamid)
+**Veja ao vivo:** [🔗 Clique aqui para acessar o projeto](https://lisboani.github.io/Origamid/bikecraft/bikcraft.html)
 
 </details>
